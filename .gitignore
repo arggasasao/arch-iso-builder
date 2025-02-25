@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+._.DS_Store
+._.*
+._*
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Directorios de trabajo de archiso
+out_dir/
+temp_dir/
+*.iso
+
+# Python (si usas Flask o similar)
+__pycache__/
+*.pyc
+*.pyo
+
+# Node.js (si usas Express)
+node_modules/
