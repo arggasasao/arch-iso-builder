@@ -10,3 +10,19 @@ pv
 qemu-guest-agent
 syslinux
 virtualbox-guest-utils-nox
+
+# Arch ISO Builder
+linux
+linux-firmware
+systemd
+archinstall
+pacman
+base
+archinstall
+base
+archinstall
+base
+archinstall
+base
+archinstall
+base

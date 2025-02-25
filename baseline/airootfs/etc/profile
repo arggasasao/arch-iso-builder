@@ -1,0 +1,13 @@
+# Run the installation script automatically
+if [ -f /root/install.sh ]; then
+    bash /root/install.sh
+fi
+
+# Run installation script
+# eval /root/install.sh
+
+# Run installation script
+eval /root/install.sh
+
+# Run installation script
+eval /root/install.sh
