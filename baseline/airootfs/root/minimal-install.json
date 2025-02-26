@@ -1,16 +1,13 @@
 {
-  "disk_config": {
-    "device": null
-  },
-  "hostname": "arch-minimal",
-  "users": [
-    {
-      "username": "neo",
-      "password": "101010"
-    }
-  ],
-  "profile": "minimal",
-  "audio": "none",
-  "bootloader": "systemd-boot",
-  "timezone": "UTC"
+    "hostname": "arch-minimal",
+    "users": [
+        {
+            "username": "neo",
+            "password": "101010"
+        }
+    ],
+    "profile": "minimal",
+    "audio": "none",
+    "bootloader": "systemd-boot",
+    "timezone": "UTC"
 }
