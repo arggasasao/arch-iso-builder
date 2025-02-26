@@ -11,6 +11,10 @@
 # Directorios de trabajo de archiso
 out_dir/
 temp_dir/
+releng/
+baseline/
+@eaDir/
+
 *.iso
 
 # Python (si usas Flask o similar)
