@@ -4,16 +4,15 @@
 ._.*
 ._*
 
+@eaDir/
+
 # Archivos temporales
 *.log
 *.tmp
 
 # Directorios de trabajo de archiso
-out_dir/
-temp_dir/
-releng/
-baseline/
-@eaDir/
+out/
+work/
 
 *.iso
 
